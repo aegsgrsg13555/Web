@@ -8,3 +8,4 @@
 
 ## HW & Exercises    
 [Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/UdT5CSLNrEg)
+[Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/DLpWUXMMPbY)
