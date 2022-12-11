@@ -17,6 +17,8 @@
 
 [Create Github Repo & Github Pages Tutorial (HW4)](https://youtu.be/E1TmRdpukX8)
 
-[Create Github Repo & Github Pages Tutorial (HW5)](https://youtu.be/8luYkro90Ms)
-https://youtu.be/ffPsJRlkhls
-https://youtu.be/5nza_PLLAmw
+[Create Github Repo & Github Pages Tutorial (HW5-1)](https://youtu.be/8luYkro90Ms)
+
+[Create Github Repo & Github Pages Tutorial (HW5-2)](https://youtu.be/ffPsJRlkhls)
+
+[Create Github Repo & Github Pages Tutorial (HW5-3)](https://youtu.be/5nza_PLLAmw)
